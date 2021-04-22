@@ -1,384 +1,384 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;300;400;600;700&display=swap');
 
-.text-style-96-thin {
+.work-sans-96-thin {
 	font-size:96px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:100;
 	font-style:normal;
 	line-height:100px;
 }
-.text-style-96-light {
+.work-sans-96-light {
 	font-size:96px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:300;
 	font-style:normal;
 	line-height:100px;
 }
-.text-style-96-regular {
+.work-sans-96-regular {
 	font-size:96px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:400;
 	font-style:normal;
 	line-height:100px;
 }
-.text-style-96-semi-bold {
+.work-sans-96-semi-bold {
 	font-size:96px;
 	font-family: 'Work Sans', sans-serif;
     font-weight:600;
     font-style:normal;
 	line-height:100px;
 }
-.text-style-96-bold {
+.work-sans-96-bold {
 	font-size:96px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:700;
 	font-style:normal;
 	line-height:100px;
 }
-.text-style-60-thin {
+.work-sans-60-thin {
 	font-size:60px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:100;
 	font-style:normal;
 	line-height:110.00000238418579px;
 }
-.text-style-60-light {
+.work-sans-60-light {
 	font-size:60px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:300;
 	font-style:normal;
 	line-height:110.00000238418579px;
 }
-.text-style-60-regular {
+.work-sans-60-regular {
 	font-size:60px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:400;
 	font-style:normal;
 	line-height:110.00000238418579px;
 }
-.text-style-60-semi-bold {
+.work-sans-60-semi-bold {
 	font-size:60px;
 	font-family: 'Work Sans', sans-serif;
     font-weight:600;
     font-style:normal;
 	line-height:110.00000238418579px;
 }
-.text-style-60-bold {
+.work-sans-60-bold {
 	font-size:60px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:700;
 	font-style:normal;
 	line-height:110.00000238418579px;
 }
-.text-style-48-thin {
+.work-sans-48-thin {
 	font-size:48px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:100;
 	font-style:normal;
 	line-height:114.99999761581421px;
 }
-.text-style-48-light {
+.work-sans-48-light {
 	font-size:48px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:300;
 	font-style:normal;
 	line-height:114.99999761581421px;
 }
-.text-style-48-regular {
+.work-sans-48-regular {
 	font-size:48px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:400;
 	font-style:normal;
 	line-height:114.99999761581421px;
 }
-.text-style-48-semi-bold {
+.work-sans-48-semi-bold {
 	font-size:48px;
 	font-family: 'Work Sans', sans-serif;
     font-weight:600;
     font-style:normal;
 	line-height:114.99999761581421px;
 }
-.text-style-48-bold {
+.work-sans-48-bold {
 	font-size:48px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:700;
 	font-style:normal;
 	line-height:114.99999761581421px;
 }
-.text-style-34-thin {
+.work-sans-34-thin {
 	font-size:34px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:100;
 	font-style:normal;
 	line-height:129.99999523162842px;
 }
-.text-style-34-light {
+.work-sans-34-light {
 	font-size:34px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:300;
 	font-style:normal;
 	line-height:129.99999523162842px;
 }
-.text-style-34-regular {
+.work-sans-34-regular {
 	font-size:34px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:400;
 	font-style:normal;
 	line-height:129.99999523162842px;
 }
-.text-style-34-semi-bold {
+.work-sans-34-semi-bold {
 	font-size:34px;
 	font-family: 'Work Sans', sans-serif;
     font-weight:600;
     font-style:normal;
 	line-height:129.99999523162842px;
 }
-.text-style-34-bold {
+.work-sans-34-bold {
 	font-size:34px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:700;
 	font-style:normal;
 	line-height:129.99999523162842px;
 }
-.text-style-24-thin {
+.work-sans-24-thin {
 	font-size:24px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:100;
 	font-style:normal;
 	line-height:150px;
 }
-.text-style-24-light {
+.work-sans-24-light {
 	font-size:24px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:300;
 	font-style:normal;
 	line-height:150px;
 }
-.text-style-24-regular {
+.work-sans-24-regular {
 	font-size:24px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:400;
 	font-style:normal;
 	line-height:150px;
 }
-.text-style-24-semi-bold {
+.work-sans-24-semi-bold {
 	font-size:24px;
 	font-family: 'Work Sans', sans-serif;
     font-weight:600;
     font-style:normal;
 	line-height:150px;
 }
-.text-style-24-bold {
+.work-sans-24-bold {
 	font-size:24px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:700;
 	font-style:normal;
 	line-height:150px;
 }
-.text-style-20-thin {
+.work-sans-20-thin {
 	font-size:20px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:100;
 	font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-20-light {
+.work-sans-20-light {
 	font-size:20px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:300;
 	font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-20-regular {
+.work-sans-20-regular {
 	font-size:20px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:400;
 	font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-20-semi-bold {
+.work-sans-20-semi-bold {
 	font-size:20px;
 	font-family: 'Work Sans', sans-serif;
     font-weight:600;
     font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-20-bold {
+.work-sans-20-bold {
 	font-size:20px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:700;
 	font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-18-light {
+.work-sans-18-light {
 	font-size:18px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:300;
 	font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-18-thin {
+.work-sans-18-thin {
 	font-size:18px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:100;
 	font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-18-regular {
+.work-sans-18-regular {
 	font-size:18px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:400;
 	font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-18-semi-bold {
+.work-sans-18-semi-bold {
 	font-size:18px;
 	font-family: 'Work Sans', sans-serif;
     font-weight:600;
     font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-18-bold {
+.work-sans-18-bold {
 	font-size:18px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:700;
 	font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-16-thin {
+.work-sans-16-thin {
 	font-size:16px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:100;
 	font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-16-light {
+.work-sans-16-light {
 	font-size:16px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:300;
 	font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-16-regular {
+.work-sans-16-regular {
 	font-size:16px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:400;
 	font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-16-semi-bold {
+.work-sans-16-semi-bold {
 	font-size:16px;
 	font-family: 'Work Sans', sans-serif;
     font-weight:600;
     font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-16-bold {
+.work-sans-16-bold {
 	font-size:16px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:700;
 	font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-14-thin {
+.work-sans-14-thin {
 	font-size:14px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:100;
 	font-style:normal;
 	line-height:200px;
 }
-.text-style-14-light {
+.work-sans-14-light {
 	font-size:14px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:300;
 	font-style:normal;
 	line-height:200px;
 }
-.text-style-14-regular {
+.work-sans-14-regular {
 	font-size:14px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:400;
 	font-style:normal;
 	line-height:200px;
 }
-.text-style-14-semi-bold {
+.work-sans-14-semi-bold {
 	font-size:14px;
 	font-family: 'Work Sans', sans-serif;
     font-weight:600;
     font-style:normal;
 	line-height:200px;
 }
-.text-style-14-bold {
+.work-sans-14-bold {
 	font-size:14px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:700;
 	font-style:normal;
 	line-height:200px;
 }
-.text-style-12-thin {
+.work-sans-12-thin {
 	font-size:12px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:100;
 	font-style:normal;
 	line-height:200px;
 }
-.text-style-12-light {
+.work-sans-12-light {
 	font-size:12px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:300;
 	font-style:normal;
 	line-height:200px;
 }
-.text-style-12-regular {
+.work-sans-12-regular {
 	font-size:12px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:400;
 	font-style:normal;
 	line-height:200px;
 }
-.text-style-12-semi-bold {
+.work-sans-12-semi-bold {
 	font-size:12px;
 	font-family: 'Work Sans', sans-serif;
     font-weight:600;
     font-style:normal;
 	line-height:200px;
 }
-.text-style-12-bold {
+.work-sans-12-bold {
 	font-size:12px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:700;
 	font-style:normal;
 	line-height:200px;
 }
-.text-style-10-thin {
+.work-sans-10-thin {
 	font-size:10px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:100;
 	font-style:normal;
 	line-height:250px;
 }
-.text-style-10-light {
+.work-sans-10-light {
 	font-size:10px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:300;
 	font-style:normal;
 	line-height:250px;
 }
-.text-style-10-regular {
+.work-sans-10-regular {
 	font-size:10px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:400;
 	font-style:normal;
 	line-height:250px;
 }
-.text-style-10-semi-bold {
+.work-sans-10-semi-bold {
 	font-size:10px;
 	font-family: 'Work Sans', sans-serif;
     font-weight:600;
     font-style:normal;
 	line-height:250px;
 }
-.text-style-10-bold {
+.work-sans-10-bold {
 	font-size:10px;
 	font-family: 'Work Sans', sans-serif;
 	font-weight:700;

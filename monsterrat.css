@@ -1,384 +1,384 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;600;700&display=swap');
 
-.text-style-96-thin {
+.montserrat-96-thin {
 	font-size:96px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:100;
 	font-style:normal;
 	line-height:100px;
 }
-.text-style-96-light {
+.montserrat-96-light {
 	font-size:96px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:300;
 	font-style:normal;
 	line-height:100px;
 }
-.text-style-96-regular {
+.montserrat-96-regular {
 	font-size:96px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:400;
 	font-style:normal;
 	line-height:100px;
 }
-.text-style-96-semi-bold {
+.montserrat-96-semi-bold {
 	font-size:96px;
 	font-family: 'Montserrat', sans-serif;
     font-weight:600;
     font-style:normal;
 	line-height:100px;
 }
-.text-style-96-bold {
+.montserrat-96-bold {
 	font-size:96px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:700;
 	font-style:normal;
 	line-height:100px;
 }
-.text-style-60-thin {
+.montserrat-60-thin {
 	font-size:60px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:100;
 	font-style:normal;
 	line-height:110.00000238418579px;
 }
-.text-style-60-light {
+.montserrat-60-light {
 	font-size:60px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:300;
 	font-style:normal;
 	line-height:110.00000238418579px;
 }
-.text-style-60-regular {
+.montserrat-60-regular {
 	font-size:60px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:400;
 	font-style:normal;
 	line-height:110.00000238418579px;
 }
-.text-style-60-semi-bold {
+.montserrat-60-semi-bold {
 	font-size:60px;
 	font-family: 'Montserrat', sans-serif;
     font-weight:600;
     font-style:normal;
 	line-height:110.00000238418579px;
 }
-.text-style-60-bold {
+.montserrat-60-bold {
 	font-size:60px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:700;
 	font-style:normal;
 	line-height:110.00000238418579px;
 }
-.text-style-48-thin {
+.montserrat-48-thin {
 	font-size:48px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:100;
 	font-style:normal;
 	line-height:114.99999761581421px;
 }
-.text-style-48-light {
+.montserrat-48-light {
 	font-size:48px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:300;
 	font-style:normal;
 	line-height:114.99999761581421px;
 }
-.text-style-48-regular {
+.montserrat-48-regular {
 	font-size:48px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:400;
 	font-style:normal;
 	line-height:114.99999761581421px;
 }
-.text-style-48-semi-bold {
+.montserrat-48-semi-bold {
 	font-size:48px;
 	font-family: 'Montserrat', sans-serif;
     font-weight:600;
     font-style:normal;
 	line-height:114.99999761581421px;
 }
-.text-style-48-bold {
+.montserrat-48-bold {
 	font-size:48px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:700;
 	font-style:normal;
 	line-height:114.99999761581421px;
 }
-.text-style-34-thin {
+.montserrat-34-thin {
 	font-size:34px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:100;
 	font-style:normal;
 	line-height:129.99999523162842px;
 }
-.text-style-34-light {
+.montserrat-34-light {
 	font-size:34px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:300;
 	font-style:normal;
 	line-height:129.99999523162842px;
 }
-.text-style-34-regular {
+.montserrat-34-regular {
 	font-size:34px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:400;
 	font-style:normal;
 	line-height:129.99999523162842px;
 }
-.text-style-34-semi-bold {
+.montserrat-34-semi-bold {
 	font-size:34px;
 	font-family: 'Montserrat', sans-serif;
     font-weight:600;
     font-style:normal;
 	line-height:129.99999523162842px;
 }
-.text-style-34-bold {
+.montserrat-34-bold {
 	font-size:34px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:700;
 	font-style:normal;
 	line-height:129.99999523162842px;
 }
-.text-style-24-thin {
+.montserrat-24-thin {
 	font-size:24px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:100;
 	font-style:normal;
 	line-height:150px;
 }
-.text-style-24-light {
+.montserrat-24-light {
 	font-size:24px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:300;
 	font-style:normal;
 	line-height:150px;
 }
-.text-style-24-regular {
+.montserrat-24-regular {
 	font-size:24px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:400;
 	font-style:normal;
 	line-height:150px;
 }
-.text-style-24-semi-bold {
+.montserrat-24-semi-bold {
 	font-size:24px;
 	font-family: 'Montserrat', sans-serif;
     font-weight:600;
     font-style:normal;
 	line-height:150px;
 }
-.text-style-24-bold {
+.montserrat-24-bold {
 	font-size:24px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:700;
 	font-style:normal;
 	line-height:150px;
 }
-.text-style-20-thin {
+.montserrat-20-thin {
 	font-size:20px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:100;
 	font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-20-light {
+.montserrat-20-light {
 	font-size:20px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:300;
 	font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-20-regular {
+.montserrat-20-regular {
 	font-size:20px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:400;
 	font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-20-semi-bold {
+.montserrat-20-semi-bold {
 	font-size:20px;
 	font-family: 'Montserrat', sans-serif;
     font-weight:600;
     font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-20-bold {
+.montserrat-20-bold {
 	font-size:20px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:700;
 	font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-18-light {
+.montserrat-18-light {
 	font-size:18px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:300;
 	font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-18-thin {
+.montserrat-18-thin {
 	font-size:18px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:100;
 	font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-18-regular {
+.montserrat-18-regular {
 	font-size:18px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:400;
 	font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-18-semi-bold {
+.montserrat-18-semi-bold {
 	font-size:18px;
 	font-family: 'Montserrat', sans-serif;
     font-weight:600;
     font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-18-bold {
+.montserrat-18-bold {
 	font-size:18px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:700;
 	font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-16-thin {
+.montserrat-16-thin {
 	font-size:16px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:100;
 	font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-16-light {
+.montserrat-16-light {
 	font-size:16px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:300;
 	font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-16-regular {
+.montserrat-16-regular {
 	font-size:16px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:400;
 	font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-16-semi-bold {
+.montserrat-16-semi-bold {
 	font-size:16px;
 	font-family: 'Montserrat', sans-serif;
     font-weight:600;
     font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-16-bold {
+.montserrat-16-bold {
 	font-size:16px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:700;
 	font-style:normal;
 	line-height:179.99999523162842px;
 }
-.text-style-14-thin {
+.montserrat-14-thin {
 	font-size:14px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:100;
 	font-style:normal;
 	line-height:200px;
 }
-.text-style-14-light {
+.montserrat-14-light {
 	font-size:14px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:300;
 	font-style:normal;
 	line-height:200px;
 }
-.text-style-14-regular {
+.montserrat-14-regular {
 	font-size:14px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:400;
 	font-style:normal;
 	line-height:200px;
 }
-.text-style-14-semi-bold {
+.montserrat-14-semi-bold {
 	font-size:14px;
 	font-family: 'Montserrat', sans-serif;
     font-weight:600;
     font-style:normal;
 	line-height:200px;
 }
-.text-style-14-bold {
+.montserrat-14-bold {
 	font-size:14px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:700;
 	font-style:normal;
 	line-height:200px;
 }
-.text-style-12-thin {
+.montserrat-12-thin {
 	font-size:12px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:100;
 	font-style:normal;
 	line-height:200px;
 }
-.text-style-12-light {
+.montserrat-12-light {
 	font-size:12px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:300;
 	font-style:normal;
 	line-height:200px;
 }
-.text-style-12-regular {
+.montserrat-12-regular {
 	font-size:12px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:400;
 	font-style:normal;
 	line-height:200px;
 }
-.text-style-12-semi-bold {
+.montserrat-12-semi-bold {
 	font-size:12px;
 	font-family: 'Montserrat', sans-serif;
     font-weight:600;
     font-style:normal;
 	line-height:200px;
 }
-.text-style-12-bold {
+.montserrat-12-bold {
 	font-size:12px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:700;
 	font-style:normal;
 	line-height:200px;
 }
-.text-style-10-thin {
+.montserrat-10-thin {
 	font-size:10px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:100;
 	font-style:normal;
 	line-height:250px;
 }
-.text-style-10-light {
+.montserrat-10-light {
 	font-size:10px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:300;
 	font-style:normal;
 	line-height:250px;
 }
-.text-style-10-regular {
+.montserrat-10-regular {
 	font-size:10px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:400;
 	font-style:normal;
 	line-height:250px;
 }
-.text-style-10-semi-bold {
+.montserrat-10-semi-bold {
 	font-size:10px;
 	font-family: 'Montserrat', sans-serif;
     font-weight:600;
     font-style:normal;
 	line-height:250px;
 }
-.text-style-10-bold {
+.montserrat-10-bold {
 	font-size:10px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:700;
