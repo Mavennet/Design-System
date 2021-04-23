@@ -36,17 +36,17 @@
 --shadow--40--mavennet: #6114b8;
 --shadow--30--mavennet: #490f8a;
 --shadow--20--mavennet: #300a5c;
---shadow--10--mavennet: #18052e;
+--heading--10--mavennet: #18052e;
 /* Metaltrail */
 --shadow--40--metal: #2214b8;
 --shadow--30--metal: #1a0f8a;
 --shadow--20--metal: #110a5c;
---shadow--10--metal: #09052e;
+--heading--10--metal: #09052e;
 /* Neoflow */
 --shadow--40--neoflow: #1450b8;
 --shadow--30--neoflow: #0f3c8a;
 --shadow--20--neoflow: #0a285c;
---shadow--10--neoflow: #05142e;
+--heading--10--neoflow: #05142e;
 /* Gray */
 --gray--100: #ffffff;
 --gray--99: #fcfcfc;
@@ -59,14 +59,14 @@
 --gray--30: #4d4d4d;
 --gray--0: #000000;
 /* Mavennet */
---gray--50--mavennet: #7f738c;
---gray--30--mavennet: #4c4554;
+--body--50--mavennet: #7f738c;
+--body--30--mavennet: #4c4554;
 /* Metaltrail */
---gray--50--metal: #75738c;
---gray--30--metal: #464554;
+--body--50--metal: #75738c;
+--body--30--metal: #464554;
 /* Neoflow */
---gray--50--neoflow: #737c8c;
---gray--30--neoflow: #454a54;
+--body--50--neoflow: #737c8c;
+--body--30--neoflow: #454a54;
 /* Mavennet */
 --fade--70--mavennet: #b194d1;
 --fade--60--mavennet: #9670c2;
