@@ -1,387 +1,281 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;600;700&display=swap');
+* {
+  font-style: normal;
+  line-height: 1.5;
+  font-family: 'Montserrat', sans-serif;
+}
 
 .montserrat-96-thin {
-	font-size:96px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:100;
-	font-style:normal;
-	line-height:100px;
+  font-size: 96px;
+  font-weight: 100;
 }
+
 .montserrat-96-light {
-	font-size:96px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:300;
-	font-style:normal;
-	line-height:100px;
+  font-size: 96px;
+  font-weight: 300;
 }
+
 .montserrat-96-regular {
-	font-size:96px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:400;
-	font-style:normal;
-	line-height:100px;
+  font-size: 96px;
+  font-weight: 400;
 }
+
 .montserrat-96-semi-bold {
-	font-size:96px;
-	font-family: 'Montserrat', sans-serif;
-    font-weight:600;
-    font-style:normal;
-	line-height:100px;
+  font-size: 96px;
+  font-weight: 600;
 }
+
 .montserrat-96-bold {
-	font-size:96px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:700;
-	font-style:normal;
-	line-height:100px;
+  font-size: 96px;
+  font-weight: 700;
 }
+
 .montserrat-60-thin {
-	font-size:60px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:100;
-	font-style:normal;
-	line-height:110.00000238418579px;
+  font-size: 60px;
+  font-weight: 100;
 }
+
 .montserrat-60-light {
-	font-size:60px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:300;
-	font-style:normal;
-	line-height:110.00000238418579px;
+  font-size: 60px;
+  font-weight: 300;
 }
+
 .montserrat-60-regular {
-	font-size:60px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:400;
-	font-style:normal;
-	line-height:110.00000238418579px;
+  font-size: 60px;
+  font-weight: 400;
 }
+
 .montserrat-60-semi-bold {
-	font-size:60px;
-	font-family: 'Montserrat', sans-serif;
-    font-weight:600;
-    font-style:normal;
-	line-height:110.00000238418579px;
+  font-size: 60px;
+  font-weight: 600;
 }
+
 .montserrat-60-bold {
-	font-size:60px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:700;
-	font-style:normal;
-	line-height:110.00000238418579px;
+  font-size: 60px;
+  font-weight: 700;
 }
+
 .montserrat-48-thin {
-	font-size:48px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:100;
-	font-style:normal;
-	line-height:114.99999761581421px;
+  font-size: 48px;
+  font-weight: 100;
 }
+
 .montserrat-48-light {
-	font-size:48px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:300;
-	font-style:normal;
-	line-height:114.99999761581421px;
+  font-size: 48px;
+  font-weight: 300;
 }
+
 .montserrat-48-regular {
-	font-size:48px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:400;
-	font-style:normal;
-	line-height:114.99999761581421px;
+  font-size: 48px;
+  font-weight: 400;
 }
+
 .montserrat-48-semi-bold {
-	font-size:48px;
-	font-family: 'Montserrat', sans-serif;
-    font-weight:600;
-    font-style:normal;
-	line-height:114.99999761581421px;
+  font-size: 48px;
+  font-weight: 600;
 }
+
 .montserrat-48-bold {
-	font-size:48px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:700;
-	font-style:normal;
-	line-height:114.99999761581421px;
+  font-size: 48px;
+  font-weight: 700;
 }
+
 .montserrat-34-thin {
-	font-size:34px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:100;
-	font-style:normal;
-	line-height:129.99999523162842px;
+  font-size: 34px;
+  font-weight: 100;
 }
+
 .montserrat-34-light {
-	font-size:34px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:300;
-	font-style:normal;
-	line-height:129.99999523162842px;
+  font-size: 34px;
+  font-weight: 300;
 }
+
 .montserrat-34-regular {
-	font-size:34px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:400;
-	font-style:normal;
-	line-height:129.99999523162842px;
+  font-size: 34px;
+  font-weight: 400;
 }
+
 .montserrat-34-semi-bold {
-	font-size:34px;
-	font-family: 'Montserrat', sans-serif;
-    font-weight:600;
-    font-style:normal;
-	line-height:129.99999523162842px;
+  font-size: 34px;
+  font-weight: 600;
 }
+
 .montserrat-34-bold {
-	font-size:34px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:700;
-	font-style:normal;
-	line-height:129.99999523162842px;
+  font-size: 34px;
+  font-weight: 700;
 }
+
 .montserrat-24-thin {
-	font-size:24px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:100;
-	font-style:normal;
-	line-height:150px;
+  font-size: 24px;
+  font-weight: 100;
 }
+
 .montserrat-24-light {
-	font-size:24px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:300;
-	font-style:normal;
-	line-height:150px;
+  font-size: 24px;
+  font-weight: 300;
 }
+
 .montserrat-24-regular {
-	font-size:24px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:400;
-	font-style:normal;
-	line-height:150px;
+  font-size: 24px;
+  font-weight: 400;
 }
+
 .montserrat-24-semi-bold {
-	font-size:24px;
-	font-family: 'Montserrat', sans-serif;
-    font-weight:600;
-    font-style:normal;
-	line-height:150px;
+  font-size: 24px;
+  font-weight: 600;
 }
+
 .montserrat-24-bold {
-	font-size:24px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:700;
-	font-style:normal;
-	line-height:150px;
+  font-size: 24px;
+  font-weight: 700;
 }
+
 .montserrat-20-thin {
-	font-size:20px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:100;
-	font-style:normal;
-	line-height:179.99999523162842px;
+  font-size: 20px;
+  font-weight: 100;
 }
+
 .montserrat-20-light {
-	font-size:20px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:300;
-	font-style:normal;
-	line-height:179.99999523162842px;
+  font-size: 20px;
+  font-weight: 300;
 }
+
 .montserrat-20-regular {
-	font-size:20px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:400;
-	font-style:normal;
-	line-height:179.99999523162842px;
+  font-size: 20px;
+  font-weight: 400;
 }
+
 .montserrat-20-semi-bold {
-	font-size:20px;
-	font-family: 'Montserrat', sans-serif;
-    font-weight:600;
-    font-style:normal;
-	line-height:179.99999523162842px;
+  font-size: 20px;
+  font-weight: 600;
 }
+
 .montserrat-20-bold {
-	font-size:20px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:700;
-	font-style:normal;
-	line-height:179.99999523162842px;
+  font-size: 20px;
+  font-weight: 700;
 }
+
 .montserrat-18-light {
-	font-size:18px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:300;
-	font-style:normal;
-	line-height:179.99999523162842px;
+  font-size: 18px;
+  font-weight: 300;
 }
+
 .montserrat-18-thin {
-	font-size:18px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:100;
-	font-style:normal;
-	line-height:179.99999523162842px;
+  font-size: 18px;
+  font-weight: 100;
 }
+
 .montserrat-18-regular {
-	font-size:18px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:400;
-	font-style:normal;
-	line-height:179.99999523162842px;
+  font-size: 18px;
+  font-weight: 400;
 }
+
 .montserrat-18-semi-bold {
-	font-size:18px;
-	font-family: 'Montserrat', sans-serif;
-    font-weight:600;
-    font-style:normal;
-	line-height:179.99999523162842px;
+  font-size: 18px;
+  font-weight: 600;
 }
+
 .montserrat-18-bold {
-	font-size:18px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:700;
-	font-style:normal;
-	line-height:179.99999523162842px;
+  font-size: 18px;
+  font-weight: 700;
 }
+
 .montserrat-16-thin {
-	font-size:16px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:100;
-	font-style:normal;
-	line-height:179.99999523162842px;
+  font-size: 16px;
+  font-weight: 100;
 }
+
 .montserrat-16-light {
-	font-size:16px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:300;
-	font-style:normal;
-	line-height:179.99999523162842px;
+  font-size: 16px;
+  font-weight: 300;
 }
+
 .montserrat-16-regular {
-	font-size:16px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:400;
-	font-style:normal;
-	line-height:179.99999523162842px;
+  font-size: 16px;
+  font-weight: 400;
 }
+
 .montserrat-16-semi-bold {
-	font-size:16px;
-	font-family: 'Montserrat', sans-serif;
-    font-weight:600;
-    font-style:normal;
-	line-height:179.99999523162842px;
+  font-size: 16px;
+  font-weight: 600;
 }
+
 .montserrat-16-bold {
-	font-size:16px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:700;
-	font-style:normal;
-	line-height:179.99999523162842px;
+  font-size: 16px;
+  font-weight: 700;
 }
+
 .montserrat-14-thin {
-	font-size:14px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:100;
-	font-style:normal;
-	line-height:200px;
+  font-size: 14px;
+  font-weight: 100;
 }
+
 .montserrat-14-light {
-	font-size:14px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:300;
-	font-style:normal;
-	line-height:200px;
+  font-size: 14px;
+  font-weight: 300;
 }
+
 .montserrat-14-regular {
-	font-size:14px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:400;
-	font-style:normal;
-	line-height:200px;
+  font-size: 14px;
+  font-weight: 400;
 }
+
 .montserrat-14-semi-bold {
-	font-size:14px;
-	font-family: 'Montserrat', sans-serif;
-    font-weight:600;
-    font-style:normal;
-	line-height:200px;
+  font-size: 14px;
+  font-weight: 600;
 }
+
 .montserrat-14-bold {
-	font-size:14px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:700;
-	font-style:normal;
-	line-height:200px;
+  font-size: 14px;
+  font-weight: 700;
 }
+
 .montserrat-12-thin {
-	font-size:12px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:100;
-	font-style:normal;
-	line-height:200px;
+  font-size: 12px;
+  font-weight: 100;
 }
+
 .montserrat-12-light {
-	font-size:12px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:300;
-	font-style:normal;
-	line-height:200px;
+  font-size: 12px;
+  font-weight: 300;
 }
+
 .montserrat-12-regular {
-	font-size:12px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:400;
-	font-style:normal;
-	line-height:200px;
+  font-size: 12px;
+  font-weight: 400;
 }
+
 .montserrat-12-semi-bold {
-	font-size:12px;
-	font-family: 'Montserrat', sans-serif;
-    font-weight:600;
-    font-style:normal;
-	line-height:200px;
+  font-size: 12px;
+  font-weight: 600;
 }
+
 .montserrat-12-bold {
-	font-size:12px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:700;
-	font-style:normal;
-	line-height:200px;
+  font-size: 12px;
+  font-weight: 700;
 }
+
 .montserrat-10-thin {
-	font-size:10px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:100;
-	font-style:normal;
-	line-height:250px;
+  font-size: 10px;
+  font-weight: 100;
 }
+
 .montserrat-10-light {
-	font-size:10px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:300;
-	font-style:normal;
-	line-height:250px;
+  font-size: 10px;
+  font-weight: 300;
 }
+
 .montserrat-10-regular {
-	font-size:10px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:400;
-	font-style:normal;
-	line-height:250px;
+  font-size: 10px;
+  font-weight: 400;
 }
+
 .montserrat-10-semi-bold {
-	font-size:10px;
-	font-family: 'Montserrat', sans-serif;
-    font-weight:600;
-    font-style:normal;
-	line-height:250px;
+  font-size: 10px;
+  font-weight: 600;
 }
+
 .montserrat-10-bold {
-	font-size:10px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:700;
-	font-style:normal;
-	line-height:250px;
+  font-size: 10px;
+  font-weight: 700;
 }
