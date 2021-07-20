@@ -1,4 +1,7 @@
 :root {
+  /* Sidebar color */
+  --primaryMetalSidebar: rgba(34, 20, 184, 0.7);
+  --primaryNeoflowSidebar: rgba(20, 80, 184, 0.7);
   /* Mavennet primary */
   --primaryMavennet99: rgba(252, 250, 254, 1);
   --primaryMavennet98: rgba(250, 246, 254, 1);
